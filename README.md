@@ -7,4 +7,5 @@ The winner of the dice game gains the power to decide on the next course of acti
 Why I Created This Game
 As a novice in the realm of JavaScript, this project not only served as a practical application of my learning but also brought a fun and interactive dimension to decision-making within my social circle.
 
-How to Play
+# How to Play
+Go to this website: https://nourbaganne.github.io/DiceGame/
